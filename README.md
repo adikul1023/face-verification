@@ -1,4 +1,4 @@
-Face Verification Tool
+#Face Verification Tool
 This is a face verification tool designed to detect faces in real-time, confirm liveness, and differentiate between live faces and spoofing attempts (e.g., photos or videos). The system uses advanced techniques such as head pose estimation, perspective distortion analysis, depth estimation, blink detection, and motion parallax to ensure robust liveness checks.
 
 Features
